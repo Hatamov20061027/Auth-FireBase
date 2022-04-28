@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577132512805",
+    "project_id": "codial-test-363c1",
+    "storage_bucket": "codial-test-363c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577132512805:android:16f212f6a42f514935e1cc",
+        "android_client_info": {
+          "package_name": "com.example.auntificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577132512805-4rumqhml0jmncj2ma5i5u478e2qo1mjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2LDnVGPbdK1pJcESVf9t9A8yr3t1QQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577132512805-4rumqhml0jmncj2ma5i5u478e2qo1mjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
